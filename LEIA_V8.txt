@@ -1,0 +1,17 @@
+finanZ Pro ULTRA v8 - Atualização incremental
+
+Inclui TODOS os arquivos e módulos existentes da v7.
+NOVO:
+- Escrituração adicional automática e rastreável para títulos com origem em faturamento, compras e folha do ecossistema.
+- Lançamentos de liquidação de títulos originados pelo ecossistema, sem repetição por ID.
+- DRE parcial, balanço parcial, balancete e diário das operações integradas v8.
+- Movimentações periódicas de comercial, compras, operações, RH, administração e logística ao avançar o dia.
+- Documentos e contexto por solicitação.
+
+LIMITAÇÕES QUE PERMANECEM:
+- O balanço não inclui abertura completa e todas as operações legadas. Não é balanço oficial.
+- A folha salarial, férias e rescisão da v5 são cenários hipotéticos, não cálculo legal completo.
+- Funcionários seguem regras de simulação, não IA autônoma com linguagem livre.
+- Módulos legados possuem diários distintos; a v8 não unifica toda a escrituração anterior.
+- O app usa armazenamento local. Faça backup dos dados antes de publicar ou trocar de dispositivo.
+- Sintaxe verificada, mas testes funcionais completos e validação jurídica/contábil pendentes.

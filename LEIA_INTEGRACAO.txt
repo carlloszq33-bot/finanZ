@@ -1,0 +1,17 @@
+finanZ Pro - Entrega de integração contábil
+
+Implementado:
+- Livro contábil adicional com partidas dobradas e IDs únicos.
+- Reconhecimento por competência de documentos originados do ecossistema.
+- Baixas contábeis após liquidação de títulos elegíveis.
+- DRE, Balanço, Balancete, Diário e auditoria estrutural do livro integrado.
+- Saldo inicial bancário com contrapartida explicitamente marcada como ajuste de abertura.
+- Mantidos os módulos da v9.
+
+Limitações IMPORTANTES:
+- Não foi implementada folha salarial juridicamente completa. A v5 mantém estimativas didáticas.
+- Demonstrativos referem-se ao livro integrado, não a todos os fatos históricos da empresa.
+- A autonomia é simulação por regras, não IA.
+- Testes automatizados completos de interface, iPhone e conformidade trabalhista não foram realizados.
+- Não usar como software contábil/fiscal oficial.
+- Faça backup dos dados locais antes de atualizar.

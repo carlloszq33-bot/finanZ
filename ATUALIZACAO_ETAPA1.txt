@@ -1,0 +1,24 @@
+finanZ Pro — fechamento parcial da etapa 1 (13/10/2026)
+
+NOVO
+- Mercado empresarial por segmento, com propostas de empresas simuladas.
+- Avanço manual de ciclos: novas demandas comerciais e despesas recorrentes.
+- Análise, recusa e encaminhamento de propostas para o fluxo interdepartamental.
+- Operações aprovadas continuam criando títulos a receber pelo fluxo existente.
+- Empresas contratantes têm dados de cadastro protegidos contra edição.
+- Empresas novas criadas pelo jogador podem ser configuradas.
+- Painel de mercado e atividade por empresa.
+- Preservados chat, tesouraria, contas a pagar/receber e visual dark glass anterior.
+
+LIMITAÇÕES REAIS
+- O mercado funciona por cenários e regras, não é uma economia geral autônoma.
+- O tempo de resposta de mensagens depende do app aberto (sem notificações push offline garantidas).
+- Simulação tributária e contábil não substitui cálculo ou documentos oficiais.
+- Sem testes end-to-end em navegador ou instalação PWA nesta entrega.
+- Os ciclos são manuais para evitar movimentação inesperada enquanto o app está fechado.
+- Permissões por cargo em cada ação ainda exigem implementação e validação adicionais.
+- O capital de empresas próprias pode ser configurado no cadastro, mas ainda não há balanço contábil completo.
+
+INSTALAÇÃO
+Extraia a pasta finanZ-Pro e abra index.html em servidor local (Live Preview).
+Não misture arquivos de versões diferentes.

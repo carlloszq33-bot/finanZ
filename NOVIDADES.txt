@@ -1,0 +1,20 @@
+finanZ Pro - Conversas e Glass (atualização de 13/10/2026)
+
+O QUE MUDOU
+- Marca finanZ PRO com assinatura Business Simulator.
+- Ajuda mais compacta e visual preto/laranja com vidro fosco (glass).
+- Botão de mensagens no cabeçalho; caixa de entrada por empresa.
+- Conversas livres com clientes e fornecedores associados aos títulos.
+- Respostas simuladas em 30 a 65 segundos (enquanto o app estiver aberto).
+- Perfis econômicos simulados de contrapartes com flexibilidade, urgência e liquidez diferentes.
+- Propostas de desconto e antecipação/pagamento parcial.
+- Acordos exigem confirmação; chat não movimenta dinheiro sozinho.
+- Pagamento parcial gera título quitado separado, reduz saldo em aberto e gera movimentação bancária para conciliação.
+- Salvo localmente via armazenamento do navegador. Service worker atualizado para uso offline em hospedagem local/HTTPS.
+
+LIMITAÇÕES IMPORTANTES
+- O motor de mensagens é baseado em regras de linguagem, não é IA generativa e pode interpretar incorretamente frases livres.
+- O comportamento das contrapartes é simulado, não representa uma empresa real.
+- Negociações com desconto e pagamento parcial estão implementadas; parcelamentos e vencimentos negociados via chat ainda não são formalizados automaticamente.
+- Não houve teste visual interativo em navegador nesta entrega; testes sintáticos realizados.
+- Use localhost ou HTTPS para PWA/offline; abrir arquivo file:// não instala um PWA.

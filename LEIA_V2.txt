@@ -1,0 +1,9 @@
+finanZ Pro ULTRA v2 - Ecossistema (incremental)
+
+NOVO: módulo Empresa em movimento. Avança dias simulados e gera demandas de Comercial, Faturamento, Compras, RH, Operações e Administração. Cada solicitação apresenta contexto, documentos textuais simulados, valor, prazo, análise escrita, aprovação/rejeição/pedido de esclarecimento e histórico. Autorizar faturamento, compras ou prévia de folha cria títulos a receber/pagar, sem efetuar baixa automaticamente. A atividade varia conforme o setor da empresa.
+
+Mantém os módulos da ULTRA v1. Os dados ficam no localStorage do navegador; faça backup antes de trocar versões. Não há sincronização entre aparelhos.
+
+LIMITAÇÕES IMPORTANTES: esta versão NÃO implementa ainda todas as rotinas autônomas de todos os departamentos, ciclo comercial de proposta até faturamento conectado por pedido, cálculos legais completos de folha/tributos, escrituração contábil completa, bancos autônomos, entrevistas com análise semântica, simulação temporal em segundo plano ou backend. Os documentos são exemplos didáticos, não documentos fiscais reais. Avançar um dia é manual. Pedidos de esclarecimento ficam pendentes até nova ação, sem resposta automática.
+
+INSTALAÇÃO: extraia o ZIP e substitua os arquivos do repositório, mantendo cópia anterior. Teste localmente antes de publicar. O GitHub Pages é público e não protege os dados por senha.

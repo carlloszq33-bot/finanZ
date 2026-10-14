@@ -1,0 +1,9 @@
+finanZ Pro ULTRA v6 - correções de integração
+
+Corrige títulos não identificados na central de demandas v3-v5.
+Contagem de pendências inclui pedidos de esclarecimento.
+Datas do fluxo projetado acompanham o dia simulado.
+Pedido de prazo do cliente não cria título fictício; exige recebível existente.
+Mantém os módulos da v5.
+
+LIMITES: Folha, férias e rescisões continuam cenários didáticos, não cálculos legais. Não há DRE/BP completos, autonomia conversacional ou teste completo em iPhone.

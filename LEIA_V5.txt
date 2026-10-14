@@ -1,0 +1,15 @@
+finanZ Pro ULTRA v5 - Cenários de RH e projeção financeira
+
+NOVO:
+- Parâmetros configuráveis de desconto/encargos hipotéticos para exercícios.
+- Simulação de folha mensal, férias e rescisão (sem validade legal).
+- Envio de cenários de RH para conferência financeira, sem autorização automática.
+- Projeção de caixa por vencimentos dos títulos abertos.
+- Mantém módulos anteriores: empresas, entrevistas, mensagens, comercial, bancos, documentos e diário parcial.
+
+LIMITAÇÕES:
+- NÃO calcula folha, férias ou rescisão conforme legislação vigente.
+- NÃO entrega DRE/Balanço oficiais ou escrituração contábil integral.
+- NÃO há IA autônoma em funcionários, bancos ou negociação.
+- NÃO há teste completo de ponta a ponta nem teste em iPhone.
+- Faça backup dos dados locais antes de substituir arquivos.

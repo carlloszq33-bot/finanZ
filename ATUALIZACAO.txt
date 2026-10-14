@@ -1,0 +1,14 @@
+finanZ Pro - atualização interdepartamental
+
+Novidades:
+- Central de operações empresariais com roteamento e aprovações por departamento.
+- Venda, compra, frete e despesa operacional com trilhas próprias.
+- Criação automática de título a pagar ou a receber ao concluir o processo.
+- Contas a receber: cobrança, acordo, prazo, contestação e histórico.
+- Tesouraria: saldo realizado e projeção claramente identificados.
+- Cache offline atualizado com integracao.js.
+- Preservados o tema preto/laranja e dados salvos no navegador.
+
+LIMITES: simulação educativa, não ERP fiscal/contábil real. As aprovações são realizadas pelo usuário, não por outros usuários reais. Não há comunicação externa, emissão fiscal oficial ou cálculos tributários legais. Teste os fluxos no navegador antes de instalar como PWA.
+
+Para atualizar: extraia em pasta nova. O armazenamento local é ligado à origem (domínio/porta) do navegador, não ao ZIP. Faça backup de dados antes de trocar de origem ou limpar o navegador.

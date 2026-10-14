@@ -1,0 +1,13 @@
+finanZ Pro MASTER — atualização da Etapa 1
+
+Correções:
+- Empresas contratantes: cadastro, nome, setor, regime, capital e saldo inicial bloqueados para edição.
+- Empresas próprias: edição permitida após criação no módulo Empreender.
+- Mercado: acesso visível no cabeçalho e no início; botão Avançar ciclo na tela de Mercado.
+- Selo PRO: brilho premium discreto e animação com respeito à preferência por movimento reduzido.
+- Cache offline: nova versão do service worker e inclusão dos novos scripts.
+
+ATENÇÃO: A simulação é educativa. Mercado, negociações e decisões são programados por regras e não equivalem a uma empresa real completa. Regime tributário de empresa própria ainda não é validado juridicamente.
+
+Como abrir: extrair o ZIP em uma pasta nova, abrir essa pasta no VS Code e visualizar index.html.
+Se uma versão antiga persistir, usar Ctrl+Shift+R; se necessário, limpar os dados do site/service worker no navegador (isso pode apagar o progresso salvo localmente).

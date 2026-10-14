@@ -1,0 +1,16 @@
+finanZ Pro - Organização dos módulos
+
+O início foi substituído por uma Central de Trabalho organizada em 5 categorias:
+1. Rotina financeira
+2. Contabilidade e análise
+3. Gestão corporativa
+4. Pessoas e comunicação
+5. Laboratório e histórico
+
+Inclui pesquisa instantânea, filtros de categoria, atalhos para solicitações e fechamento.
+Os módulos anteriores foram preservados. Os livros contábeis didáticos legados
+ficam em 'Laboratório e histórico' para evitar confusão com o fechamento integrado.
+
+A organização não modifica os cálculos de folha nem corrige limitações dos módulos.
+Verificados: sintaxe dos arquivos JavaScript e integridade do ZIP.
+Testes de interface no navegador e iPhone não foram executados.

@@ -1,0 +1,9 @@
+finanZ Pro ULTRA v3 - Ciclo comercial e diário didático
+
+Adições: eventos comerciais e operacionais encadeados, proposta > aprovação > execução > faturamento > contas a receber, compras com contas a pagar, histórico por pedido, diário didático balanceado, RH com bloqueio de aprovação sem encargos. Preserva módulos e dados da v2 no mesmo navegador.
+
+Limites: NÃO inclui folha legal completa, contabilidade integral, DRE/BP oficiais, IA para negociação, todos os departamentos autônomos ou testes de interface em iPhone. Sem backend, autenticação ou sincronização. Não use como sistema empresarial real.
+
+Teste: no app, Empresa em movimento > Avançar dia > analisar proposta > aprovar > avançar dias até entrega > conferir faturamento > aprovar > conferir Contas a receber e Diário contábil.
+
+Antes de substituir no GitHub: faça backup do ZIP anterior e dos dados do navegador.

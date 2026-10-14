@@ -1,0 +1,20 @@
+finanZ Pro ULTRA v1 - protótipo ampliado (13/10/2026)
+
+INSTALAÇÃO: extraia o ZIP e publique TODOS os arquivos no mesmo nível do index.html, substituindo os antigos. O site GitHub Pages continuará público.
+
+IMPLEMENTADO NESTA ETAPA:
+- 15 empresas e 9 cargos em vagas simuladas, entrevistas abertas com critérios didáticos, aprovação/reprovação e contratação condicionada.
+- Solicitações de autorização com objetivo, contexto, conferências, consequências e pedido de esclarecimento.
+- Negociação bancária simplificada, pré-análise de limite e capacidade, contrato com entrada no caixa e dívida registrada separadamente.
+- RH: cadastro de funcionários e obrigação salarial BRUTA (sem folha legal).
+- E-mails corporativos e resposta ao gestor (sem IA).
+- Contratos simulados com aceitar/recusar/negociar e histórico.
+- Mapa de setores, indicando explicitamente áreas ainda não operacionais.
+- Service Worker atualizado para evitar cache antigo e disponibilizar ultra.js offline após primeiro carregamento.
+
+AINDA NÃO IMPLEMENTADO COMPLETAMENTE:
+- Folha CLT legal completa, escrituração contábil de partidas dobradas, DRE/BP/DFC integrados, tributos parametrizados, IA autônoma de negociações, rotinas profundas de todos os 15 departamentos, autenticação, sincronização e backend.
+- Entrevistas usam heurísticas transparentes; não são avaliação semântica por IA.
+- Não usar cálculos didáticos como base para decisões fiscais, trabalhistas ou bancárias reais.
+
+DADOS: salvos no navegador local; antes de substituir, faça backup se o app oferecer exportação. Nunca limpe os dados do site sem verificar.

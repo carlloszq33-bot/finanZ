@@ -1,0 +1,10 @@
+finanZ Pro ULTRA v7: oficina de escrituração contábil
+
+Incluído: lançamento manual em partidas dobradas, validação de valor e contas,
+balancete por conta, resultado parcial e histórico do diário. Preserva v6.
+
+IMPORTANTE: o módulo novo é didático e separado dos registros automáticos.
+Não é contabilidade completa, DRE/BP oficial, nem integra todas as operações.
+Folha salarial e rescisões seguem hipóteses, sem cálculos legais completos.
+Não há IA autônoma conversacional. Testes feitos: sintaxe dos JS, integridade ZIP.
+Não houve testes de interface ou iPhone. Mantenha backup da versão publicada.

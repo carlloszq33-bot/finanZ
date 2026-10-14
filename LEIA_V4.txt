@@ -1,0 +1,15 @@
+finanZ Pro ULTRA v4 - Integração adicional (14/10/2026)
+
+Mantém os arquivos e módulos da v3.
+NOVO: painel financeiro com saldos, recebíveis, obrigações, razão e resultado parcial;
+propostas bancárias v4, contratação, controle de saldo devedor e amortização de parcelas;
+rotinas de negociação de fornecedores, pedidos de prazo de clientes e revisão de RH
+geradas a partir do avanço do dia simulado.
+
+LIMITAÇÕES IMPORTANTES:
+- Resultado parcial não é DRE, balanço ou escrituração fiscal oficial.
+- A folha permanece sem cálculo completo de encargos, INSS, IRRF e FGTS.
+- Negociações são baseadas em regras locais, não em IA conversacional autônoma.
+- O app ainda não simula integralmente todos os departamentos e obrigações legais.
+- Dados ficam no armazenamento local do navegador. Faça backup antes de substituir.
+- Esta entrega passou por verificação de sintaxe, não por testes completos no iPhone.
